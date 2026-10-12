@@ -1,46 +1,50 @@
-# Hi, I'm Sina Mansouri 👋
+# سلام، من سینا منصوری هستم 👋
 
-**Backend Developer | Python · Django · Django REST Framework**
+### توسعه‌دهنده بک‌اند | Python · Django · Django REST Framework
 
-I build web applications and REST APIs with Python and Django. I'm currently focused on writing clearer backend code, designing reliable API permissions, and improving automated tests.
+روی طراحی و توسعه‌ی وب‌اپلیکیشن‌ها و APIهای قابل نگهداری با پایتون و جنگو تمرکز دارم. به طراحی درست دسترسی‌ها، معماری API، تست خودکار و نوشتن کد خوانا علاقه‌مندم.
 
-## Featured Projects
+## پروژه‌های منتخب
 
-### [DevFlow](https://github.com/sinamansoury/DevFlow)
-A task and workspace management application built with Django REST Framework and React.
+### [DevFlow — سامانه مدیریت فضای کاری و وظایف](https://github.com/sinamansoury/DevFlow)
+پروژه‌ی اصلی پورتفولیوی من؛ اپلیکیشنی با بک‌اند Django REST Framework و فرانت‌اند React.
 
-- JWT authentication and role-based access rules
-- Workspaces, projects, tasks, membership, and audit logs
-- Filtering, search, ordering, and pagination
-- Automated backend tests and GitHub Actions CI
-- PostgreSQL, Docker, Redis, and Celery in the development stack
+- احراز هویت مبتنی بر JWT
+- مدیریت فضای کاری، پروژه‌ها، وظایف و اعضا
+- کنترل دسترسی و مجوزها بر اساس نقش و عضویت
+- ثبت رویدادها در Audit Log
+- فیلتر، جست‌وجو، مرتب‌سازی و صفحه‌بندی APIها
+- تست‌های خودکار بک‌اند و اجرای CI با GitHub Actions
+- استفاده از PostgreSQL، Docker، Redis و Celery در محیط توسعه
 
 ### [TebLink](https://github.com/sinamansoury/TebLink)
-A Django project exploring doctor profiles, specialties, and appointment scheduling APIs.
+پروژه‌ی جنگو در حوزه‌ی اطلاعات پزشکان، تخصص‌ها و APIهای مرتبط با نوبت‌دهی.
 
-### [django](https://github.com/sinamansoury/django)
-A Django e-commerce and rental project with account flows, product listings, orders, and payment integration experiments.
+### [django — فروشگاه و اجاره](https://github.com/sinamansoury/django)
+پروژه‌ای با قابلیت‌های حساب کاربری، فهرست محصولات، سفارش‌ها و آزمایش‌هایی در زمینه‌ی یکپارچه‌سازی پرداخت.
 
 ### [Zima-Company](https://github.com/sinamansoury/Zima-Company)
-A Django-based company website using templates and database-backed content.
+وب‌سایت شرکتی مبتنی بر Django و قالب‌های سمت سرور، با محتوای متصل به پایگاه داده.
 
-## Tech Stack
+## مهارت‌ها و ابزارها
 
-**Backend:** Python, Django, Django REST Framework, REST APIs  
-**Data:** PostgreSQL, SQLite  
-**Tools:** Git, Docker, GitHub Actions, pytest  
-**Also familiar with:** HTML, CSS, JavaScript, React
+- **زبان و بک‌اند:** Python، Django، Django REST Framework
+- **API و امنیت:** طراحی REST API، احراز هویت JWT، مجوزها و کنترل دسترسی
+- **پایگاه داده:** PostgreSQL، SQLite
+- **تست و کیفیت کد:** pytest، تست خودکار، Ruff
+- **ابزارها:** Git، Docker، GitHub Actions
+- **آشنایی تکمیلی:** JavaScript، React، HTML و CSS
 
-## What I'm Working On
+## تمرکز فعلی
 
-- Improving API design, permissions, and error handling
-- Writing meaningful tests for backend behavior
-- Keeping project documentation clear and reproducible
+- بهبود طراحی API و کنترل دسترسی
+- افزایش کیفیت تست‌ها و اطمینان از رفتار صحیح بک‌اند
+- مستندسازی شفاف و قابل استفاده‌ی پروژه‌ها
 
-## Contact
+## ارتباط
 
-- GitHub: [@sinamansoury](https://github.com/sinamansoury)
+- [پروفایل گیت‌هاب](https://github.com/sinamansoury)
 
 ---
 
-*The projects here reflect my learning and development progress. DevFlow is my main portfolio project; earlier repositories include smaller practice projects.*
+*DevFlow پروژه‌ی اصلی پورتفولیوی من است. سایر مخازن بخشی از مسیر یادگیری و تجربه‌ی عملی من در توسعه‌ی وب هستند.*
